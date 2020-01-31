@@ -7,7 +7,7 @@ import sys
 
 result = ""
 fullUpdate = True
-filePath = '/var/www/filcnaplo.hu/settings.json' 
+filePath = './settings.json' 
 
 conn = sqlite3.connect('database.db')
 c = conn.cursor()
