@@ -1,6 +1,6 @@
 #!/bin/bash
 
-WORKDIR="/temp/workdir"
+WORKDIR="/tmp/workdir"
 APKDIR="$WORKDIR/Raccoon/content/apps/hu.eKreta.KretaAndroid/"
 
 cd "$WORKDIR"
