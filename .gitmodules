@@ -1,0 +1,3 @@
+[submodule "PlaystoreDownloader"]
+	path = PlaystoreDownloader
+	url = https://github.com/ClaudiuGeorgiu/PlaystoreDownloader.git
