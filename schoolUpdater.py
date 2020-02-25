@@ -12,6 +12,6 @@ for item in response:
 
 response = json.dumps(response, sort_keys=True, ensure_ascii=False)
 
-schoolFile = open('./school-list.json', 'w')
+schoolFile = open('./school_list.json', 'w')
 schoolFile.write(response)
 schoolFile.close()
